@@ -1,0 +1,3 @@
+MsSeguridad	-	http://localhost:85/api/entidads/login
+MsArticulo	-	http://localhost:91/api/entidads/add
+MsMovimiento	-	http://localhost:90/api/entidads/edit/{id}
